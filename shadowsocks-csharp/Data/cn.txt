@@ -1,6 +1,6 @@
 # translation for Simplified Chinese
 
-Shadowsocks=Shadowsocks
+Shadowsocks=Shadowsocks-techcenter
 
 # Menu items
 
